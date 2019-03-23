@@ -1,5 +1,7 @@
 # OpenCASCADE Technology Wrapper for JPAD
 
+*Still under construction*
+
 JPAD is a Java software library containing classes and utility functions that can be used to build software systems. 
 
 
