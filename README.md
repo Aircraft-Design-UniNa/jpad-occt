@@ -3,7 +3,7 @@
 JPAD is a Java software library containing classes and utility functions that can be used to build software systems. 
 
 
-The JPAD repository includes a module that features advanced CAD functions to model 3D geometric entities, such as NURB surfaces and solids. This project is named *JPADCAD* and employs a Java binding of the C++ [Open CASCADE Technology (OCCT) SDK](https://www.opencascade.com/content/overview) [(v7.0.0)](https://www.opencascade.com/doc/occt-7.0.0/overview/html/index.html).
+The JPAD repository includes a module that features advanced CAD functions to model 3D geometric entities, such as NURB surfaces and solids. This project is named *JPADCAD* and employs a Java binding of the C++ [Open CASCADE Technology (OCCT) SDK](https://www.opencascade.com/content/overview) [(v7.3.0)](https://www.opencascade.com/doc/occt-7.3.0/overview/html/index.html).
 
 This repository provides Java and C++ surce code to wrap a selected number of OCCT functions.
 
