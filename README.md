@@ -7,6 +7,8 @@ The JPAD repository includes a module that features advanced CAD functions to mo
 
 This repository provides Java and C++ surce code to wrap a selected number of OCCT functions.
 
+At the moment only Win64 is supported.
+
 ---
 [DAF Research Group at University Naples Federico II](http://www.daf.unina.it/)
 
